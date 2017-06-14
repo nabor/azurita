@@ -5,4 +5,4 @@ version = "0.0.1"
 authors = ["Nabor Erices <nabor@erices.com>"]
 
 [dependencies]
-linenoise-rust = "0.2.0"
+rustyline = "1.0.0"
